@@ -17,7 +17,7 @@ Instructions:
 2.	The practical list shall be notified by the teacher in the first week of the class commencement under intimation to the office of the Head of Department / Institution in which the paper is being offered from the list of practicals below. Atleast 10 experiments must be performed by the students, they may be asked to do more. Atleast 5 experiments must be from the given list. 
 
 
-
+These are the practicals below:
  
 1.	Practice of LEX/YACC of compiler writing. 
 2.	Write a program to check whether a string belong to the grammar or not. 
